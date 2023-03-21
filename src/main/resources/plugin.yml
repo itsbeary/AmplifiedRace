@@ -1,0 +1,8 @@
+name: AmplifiedRace
+version: '${project.version}'
+main: net.kealands.beary.amplifiedrace.AmplifiedRace
+api-version: 1.19
+commands:
+  amplifiedrace:
+    description: Amplified Race Command
+    aliases: [ar]
