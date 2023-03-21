@@ -26,7 +26,7 @@ public class Game {
 
     private final World world;
     private int secondsPast;
-    private final int pvpTimer = 200; // 1200
+    private final int pvpTimer = 1200;
 
     private boolean started;
     private GameTask gameTask;
